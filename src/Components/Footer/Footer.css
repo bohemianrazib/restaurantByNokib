@@ -1,0 +1,9 @@
+footer img{
+    height: 100px;
+    width: 150px;
+}
+footer  a{
+    color: #ffffff;
+    display: block;
+    line-height: 2;
+}
